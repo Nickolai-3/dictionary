@@ -1,3 +1,4 @@
 vendor/*
 logs/*
 tmp/debug_kit.sqlite
+tmp/sessions/*

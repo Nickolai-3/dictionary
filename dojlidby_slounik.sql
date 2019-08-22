@@ -105,8 +105,7 @@ INSERT INTO `words_translations` (`id`, `name`, `description`, `word_id`, `creat
 (3, 'birthday', 'day when you get birth', 29, '2017-07-09 09:43:43', '2017-07-09 09:43:43', 'en'),
 (4, 'test', 'test', 30, '2019-05-15 03:33:05', '2019-05-15 03:33:05', 'en'),
 (5, 'test', 'test', 30, '2019-05-15 03:33:15', '2019-05-15 03:33:15', 'ru');
-777adfdfafadfadf--sdffdaf
--- Indexes for dumped tables
+9999999777-- Indexes for dumped tables
 --
 
 --

@@ -100,7 +100,7 @@ CREATE TABLE `words_translations` (
 --
 
 INSERT INTO `words_translations` (`id`, `name`, `description`, `word_id`, `created`, `modified`, `lang`) VALUES
-(1, 'др', 'Пфываfgfgsdfgsdfsdfsdfdsdssafsdaffфываривети ', 29, '2017-04-11 14:06:19', '2017-06-26 00:27:14', 'by'),
+(1, 'др', 'fff ', 29, '2017-04-11 14:06:19', '2017-06-26 00:27:14', 'by'),
 (2, 'день рождения', 'День рождения', 29, '2017-07-09 09:43:21', '2017-07-09 09:43:21', 'ru'),
 (3, 'birthday', 'day when you get birth', 29, '2017-07-09 09:43:43', '2017-07-09 09:43:43', 'en'),
 (4, 'test', 'test', 30, '2019-05-15 03:33:05', '2019-05-15 03:33:05', 'en'),
